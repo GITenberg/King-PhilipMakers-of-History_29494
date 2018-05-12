@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1298
     wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
 description: The story of the colonists' fight with the Indians.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29494#King-PhilipMakers-of-History
 gutenberg_issued: '2009-07-22'
 gutenberg_type: Text
 identifiers:
